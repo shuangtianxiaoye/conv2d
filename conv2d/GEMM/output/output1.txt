@@ -1,0 +1,90 @@
+***********
+input size: 64*40*40
+kernel size: 128*64*3*3
+output size: 128*38*38
+conv time: 0.329892 s
+gemm time: 0.033078 s
+num of error: 0
+gemm with SSE time: 0.032538 s
+num of error: 0
+***********
+input size: 64*80*80
+kernel size: 128*64*3*3
+output size: 128*78*78
+conv time: 1.43639 s
+gemm time: 0.125219 s
+num of error: 0
+gemm with SSE time: 0.110216 s
+num of error: 0
+***********
+input size: 64*120*120
+kernel size: 128*64*3*3
+output size: 128*118*118
+conv time: 3.24483 s
+gemm time: 0.299601 s
+num of error: 0
+gemm with SSE time: 0.254946 s
+num of error: 0
+***********
+input size: 64*160*160
+kernel size: 128*64*3*3
+output size: 128*158*158
+conv time: 6.08399 s
+gemm time: 0.509635 s
+num of error: 0
+gemm with SSE time: 0.450914 s
+num of error: 0
+***********
+input size: 64*200*200
+kernel size: 128*64*3*3
+output size: 128*198*198
+conv time: 9.14319 s
+gemm time: 0.782098 s
+num of error: 0
+gemm with SSE time: 0.735362 s
+num of error: 0
+***********
+input size: 64*240*240
+kernel size: 128*64*3*3
+output size: 128*238*238
+conv time: 13.3183 s
+gemm time: 1.3458 s
+num of error: 0
+gemm with SSE time: 1.2131 s
+num of error: 0
+***********
+input size: 64*280*280
+kernel size: 128*64*3*3
+output size: 128*278*278
+conv time: 17.7663 s
+gemm time: 1.65783 s
+num of error: 0
+gemm with SSE time: 1.69967 s
+num of error: 0
+***********
+input size: 64*320*320
+kernel size: 128*64*3*3
+output size: 128*318*318
+conv time: 24.8951 s
+gemm time: 2.18769 s
+num of error: 0
+gemm with SSE time: 2.16733 s
+num of error: 0
+***********
+input size: 64*360*360
+kernel size: 128*64*3*3
+output size: 128*358*358
+conv time: 29.8136 s
+gemm time: 2.76766 s
+num of error: 0
+gemm with SSE time: 2.72467 s
+num of error: 0
+***********
+input size: 64*400*400
+kernel size: 128*64*3*3
+output size: 128*398*398
+conv time: 38.0132 s
+gemm time: 3.55146 s
+num of error: 0
+gemm with SSE time: 3.54355 s
+num of error: 0
