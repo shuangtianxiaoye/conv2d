@@ -8,4 +8,4 @@ conv2d with gemm &amp; winograd
 https://github.com/flame/how-to-optimize-gemm
 
 # THANKS
-Thank Jinyu Bai for the support of the project
+Thank [Jinyu Bai](https://github.com/buaabai) for the support of the project
